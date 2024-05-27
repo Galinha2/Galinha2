@@ -4,9 +4,14 @@
 - 🌱 Estou de momento a estudar JavaScript e Typescript.
 - ⚡ Fun fact: Estancionador compulsivo de marcha-atrás
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galinha2&layout=donut&theme=radical)](https://github.com/Galinha2/github-readme-stats)
+<a href="https://github.com/Galinha2/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Galinha2/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320" />
+</a>
 
-<div style="display: inline_block"><br>
+<div style="display: flex; margin: auto; alignt-items: center; justify-content: center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
