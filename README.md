@@ -4,11 +4,14 @@
 - 🌱 Estou de momento a estudar JavaScript e Typescript.
 - ⚡ Fun fact: Estancionador compulsivo de marcha-atrás
 
-<a href="https://github.com/Galinha2/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
-</a>
+##
+
 <a href="https://github.com/Galinha2/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Galinha2/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
 </a>
 
 <div style="display: flex; margin: auto; alignt-items: center; justify-content: center"><br>
