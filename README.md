@@ -5,16 +5,21 @@
 - ⚡ Fun fact: Estancionador compulsivo de marcha-atrás
 
 ##
+<div align='center'> 
+  <a href="https://github.com/Galinha2/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320" />
+  </a>
 
-<a href="https://github.com/Galinha2/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320" />
-</a>
+  <a href="https://github.com/Galinha2/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
+  </a>
+</div>
 
-<a href="https://github.com/Galinha2/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
-</a>
 
-<div style="display: flex; margin: auto; alignt-items: center; justify-content: center"><br>
+
+![lineBar](https://github.com/Galinha2/Galinha2/assets/161582309/c100c015-a70b-40ce-8c17-9c22ef3ab9d8)
+
+<div align='center' style="display: flex; margin: auto; align: 'center'; alignt-items: center; justify-content: center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,7 +31,7 @@
 
 ##
  
-<div> 
+<div align='center'> 
   <a href="https://www.instagram.com/henrique_galinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/galinha2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hgalinha1999@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
