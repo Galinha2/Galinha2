@@ -16,18 +16,20 @@
 </div>
 
 
-
 ![lineBar](https://github.com/Galinha2/Galinha2/assets/161582309/c100c015-a70b-40ce-8c17-9c22ef3ab9d8)
 
-<div align='center' style="display: flex; margin: auto; align: 'center'; alignt-items: center; justify-content: center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<h2 align="center">My Stack</h2>
 
+<div align='center'><br>
+  <img align="center" alt="Js" height="50" width="50" src=https://github.com/Galinha2/Galinha2/assets/161582309/ed1d8ee7-c66b-40aa-98d9-ce00ed2e7edc">
+  <img align="center" alt="Ts" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/80b2a433-b3ab-4f77-b212-522d9fccff98">
+  <img align="center" alt="React" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3d89fbc5-d2fd-4be5-a029-fad21fbe9507">
+  <img align="center" alt="HTML" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/13eb3e71-a730-402e-850e-a708d26a46e5">
+  <img align="center" alt="CSS" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/20e7cb3d-53d7-462b-8f12-5dbd6a86a2b0">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/8a76975f-75d3-4b35-9690-155c64ca00f5">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3f7c6ddc-5544-4ea4-974c-84f7db16f448">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/25bd73fa-86ae-41a1-92b1-982adacbab21">
+</div>
 
 ##
  
