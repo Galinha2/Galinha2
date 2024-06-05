@@ -27,7 +27,7 @@
   &nbsp;
   <img align="center" alt="React" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3d89fbc5-d2fd-4be5-a029-fad21fbe9507">
   &nbsp;
-  <img align="center" alt="HTML" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/13eb3e71-a730-402e-850e-a708d26a46e5">
+  <img align="center" alt="HTML" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/e124e3b9-df66-4376-b0de-f76bd7f401f9">
   &nbsp;
   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/20e7cb3d-53d7-462b-8f12-5dbd6a86a2b0">
   &nbsp;
