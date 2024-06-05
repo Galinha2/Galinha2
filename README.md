@@ -21,13 +21,20 @@
 <h2 align="center">My Stack</h2>
 
 <div align='center'><br>
-  <img align="center" alt="Js" height="50" width="50" src=https://github.com/Galinha2/Galinha2/assets/161582309/a2adfcd8-1ff1-4116-8044-e282c4a72f8b">
+  <img align="center" alt="Js" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/a2adfcd8-1ff1-4116-8044-e282c4a72f8b">
+  &nbsp;
   <img align="center" alt="Ts" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/80b2a433-b3ab-4f77-b212-522d9fccff98">
+  &nbsp;
   <img align="center" alt="React" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3d89fbc5-d2fd-4be5-a029-fad21fbe9507">
+  &nbsp;
   <img align="center" alt="HTML" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/13eb3e71-a730-402e-850e-a708d26a46e5">
+  &nbsp;
   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/20e7cb3d-53d7-462b-8f12-5dbd6a86a2b0">
+  &nbsp;
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/8a76975f-75d3-4b35-9690-155c64ca00f5">
+  &nbsp;
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3f7c6ddc-5544-4ea4-974c-84f7db16f448">
+  &nbsp;
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/25bd73fa-86ae-41a1-92b1-982adacbab21">
 </div>
 
