@@ -7,11 +7,11 @@
 ##
 <div align='center'> 
   <a href="https://github.com/Galinha2/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galinha2&layout=donut&icons=true&theme=radical&langs_count=8&card_width=320&border_color=fff0" />
   </a>
 
   <a href="https://github.com/Galinha2/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Galinha2&show_icons=true&theme=radical&border_color=fff0" />
   </a>
 </div>
 
