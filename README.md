@@ -21,7 +21,7 @@
 <h2 align="center">My Stack</h2>
 
 <div align='center'><br>
-  <img align="center" alt="Js" height="50" width="50" src=https://github.com/Galinha2/Galinha2/assets/161582309/ed1d8ee7-c66b-40aa-98d9-ce00ed2e7edc">
+  <img align="center" alt="Js" height="50" width="50" src=https://github.com/Galinha2/Galinha2/assets/161582309/a2adfcd8-1ff1-4116-8044-e282c4a72f8b">
   <img align="center" alt="Ts" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/80b2a433-b3ab-4f77-b212-522d9fccff98">
   <img align="center" alt="React" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3d89fbc5-d2fd-4be5-a029-fad21fbe9507">
   <img align="center" alt="HTML" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/13eb3e71-a730-402e-850e-a708d26a46e5">
