@@ -1,5 +1,6 @@
 
-![386745-2](https://github.com/Galinha2/Galinha2/assets/161582309/c505d3e2-15b4-433f-bbbc-2f6c44a61d93)
+<a href="https://www.linkedin.com/in/henrique-galinha-132010285/"><img src="https://github.com/Galinha2/Galinha2/assets/161582309/c505d3e2-15b4-433f-bbbc-2f6c44a61d93" /></a>
+
 ##
 <div align='center'> 
   <a href="https://github.com/Galinha2/convoychat">
