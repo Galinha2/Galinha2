@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/henrique-galinha-132010285/" target="_blank"><img src="https://github.com/Galinha2/Galinha2/assets/161582309/d41c5eb8-1161-4084-abcc-55b4d9e9da19" /></a>
+<a href="https://www.linkedin.com/in/henrique-galinha-132010285/" target="_blank"><img src="https://github.com/Galinha2/Galinha2/assets/161582309/4a84a97c-2b6f-464b-a81b-cd5072e99b9c" /></a>
 
 ##
 <div align='center'> 
