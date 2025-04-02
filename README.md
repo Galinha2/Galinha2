@@ -35,11 +35,10 @@
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/25bd73fa-86ae-41a1-92b1-982adacbab21">
 </div>
 
-## Olá! Eu sou o Henrique Galinha 👋
-
-- 🔭 Hoje estou a trabalhar com front-end e um pouco de back-end
-- 🌱 Estou de momento a estudar JavaScript e Typescript.
-- ⚡ Fun fact: Estancionador compulsivo de marcha-atrás
+## Hello! I’m Henrique Galinha 👋
+	•	🔭 Today, I’m working as a Full-Stack Developer.
+	•	🌱 Currently, I’m learning JavaScript and TypeScript.
+	•	⚡ Fun fact: Compulsive reverse gear parker.
 
 ##
  
