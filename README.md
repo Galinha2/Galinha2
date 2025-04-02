@@ -15,7 +15,7 @@
 
 ![lineBar](https://github.com/Galinha2/Galinha2/assets/161582309/c100c015-a70b-40ce-8c17-9c22ef3ab9d8)
 
-<h2 align="center">Meu Stack</h2>
+<h2 align="center">My Stack</h2>
 
 <div align='center'><br>
   <img align="center" alt="Js" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/a2adfcd8-1ff1-4116-8044-e282c4a72f8b">
@@ -36,9 +36,9 @@
 </div>
 
 ## Hello! I’m Henrique Galinha 👋
-	•	🔭 Today, I’m working as a Full-Stack Developer.
-	•	🌱 Currently, I’m learning JavaScript and TypeScript.
-	•	⚡ Fun fact: Compulsive reverse gear parker.
+	• 🔭 Today, I’m working as a Full-Stack Developer.
+	• 🌱 Currently, I’m learning JavaScript and TypeScript.
+	• ⚡ Fun fact: Compulsive reverse gear parker.
 
 ##
  
