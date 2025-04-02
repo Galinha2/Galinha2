@@ -37,7 +37,7 @@
 
 ## Hello! I’m Henrique Galinha 👋
 	• 🔭 Today, I’m working as a Full-Stack Developer.
-	• 🌱 Currently, I’m learning JavaScript and TypeScript.
+	• 🌱 Currently, I’m working on a Tool Tracking App.
 	• ⚡ Fun fact: Compulsive reverse gear parker.
 
 ##
