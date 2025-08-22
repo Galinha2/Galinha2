@@ -33,6 +33,18 @@
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/3f7c6ddc-5544-4ea4-974c-84f7db16f448">
   &nbsp;
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Galinha2/Galinha2/assets/161582309/25bd73fa-86ae-41a1-92b1-982adacbab21">
+	&nbsp;
+  <img align="center" width="58" height="50" width="50" alt="image 14" src="https://github.com/user-attachments/assets/76b916fd-7bc1-4eeb-a971-4ddf2a78274f" />
+	&nbsp;
+  <img align="center" width="58" height="50" width="50" alt="image 13" src="https://github.com/user-attachments/assets/a84925de-cbc3-4e49-9320-ffce136a8bd8" />
+	&nbsp;
+  <img align="center" width="58" height="50"width="50" alt="image 12" src="https://github.com/user-attachments/assets/f1559bf2-15a7-490a-9f5d-681aa221b629" />
+	&nbsp;
+  <img align="center" width="58" height="50" width="50" alt="image 11" src="https://github.com/user-attachments/assets/ac5e9316-1687-4ea1-b439-c51dc5caefb6" />
+	&nbsp;
+  <img align="center" width="58" height="50" width="50" alt="image 3" src="https://github.com/user-attachments/assets/6c55720b-f3a2-4708-8cdd-1205b02f774c" />
+	&nbsp;
+  <img align="center" width="71" height="50" width="50" alt="image 2" src="https://github.com/user-attachments/assets/19b0f8e9-6146-44af-ba49-7ea229a96f2e" />
 </div>
 
 ## Hello! I’m Henrique Galinha 👋
